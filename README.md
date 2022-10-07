@@ -1,4 +1,4 @@
-# FindyeApp
+# FindyApp
 This app was made by Baje99. 
 please assume that the application is currently a demo, and for any error you can contact me on github to be able to fix it.
 Supported Formats:
