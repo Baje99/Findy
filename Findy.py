@@ -10,7 +10,6 @@ import openpyxl as xl
 from pyxlsb import open_workbook
 import xlrd
 import win32com.client
-import docx2txt
 """
 This app was made by Baje99. 
 please assume that the application is currently a demo, and for any error you can contact me on github to be able to fix it.
